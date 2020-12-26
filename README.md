@@ -1,0 +1,2 @@
+# PythonCrwalerMarathon_Day8
+靜態網頁的資料爬蟲策略
